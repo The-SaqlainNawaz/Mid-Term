@@ -1,0 +1,5 @@
+Samyan Wahla,1234567890987,TH-01,1/Programing Fundamental
+Miss Sofia,4444444444444,TH-02,6666/Aplied Physics
+Sir Irfan,1234567890098,TH-03,wwe/Calculus
+Syed Khaldoon,1234567890098,TH-04,1/ITOC
+

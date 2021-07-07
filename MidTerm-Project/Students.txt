@@ -1,0 +1,4 @@
+Saqlain Nawaz,2020-CS-135,ST-01,112233
+Zain Hassan,2020-CS-134,ST-02,1122
+Sharjeel Iftikhar,2020-CS-139,ST-03,55
+Nouman Bhutt,2020-CS-110,ST-04,1122

@@ -1,0 +1,3 @@
+Samyan Wahla,Programing Fundamental,Quiz 1,25,10/Data Types,5,1-Arrays,5,2
+Samyan Wahla,Programing Fundamental,Quiz 2,25,15/Data Types,5,1-Arrays,5,2-Functions,5,3
+Syed Khaldoon,ITOC,Quiz1,20,10/Data Flow,10,1

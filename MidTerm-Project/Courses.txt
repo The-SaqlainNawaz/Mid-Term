@@ -1,0 +1,4 @@
+Programing Fundamental,PF-111,3,Samyan Wahla/1,2/Data Types,Type Conversion,Control Structures-Functions,Enumeration,Arrays/Poor,1,10-Good,2,50-Excellent,3,100_Poor,1,10-Good,2,50-Excellent,3,100_Poor,1,10-Good,2,50-Excellent,3,100=Poor,1,10-Good,2,50-Excellent,3,100_Poor,1,10-Good,2,50-Excellent,3,100_Poor,1,10-Good,2,50-Excellent,3,100
+Aplied Physics,AP-111,3,Miss Sofia/1,2/Inertia,Movement-Newtons Law,Angular Movement/Poor,1,10-Good,2,50-Excellent,3,100_Poor,1,10-Good,2,50-Excellent,3,100=Poor,1,10-Good,2,50-Excellent,3,100_Poor,1,10-Good,2,50-Excellent,3,100
+Calculus,CL-123,3,Sir Irfan/1,2/Integration-Differential/Poor,1,10-Good,2,50-Excellent,3,100=Poor,1,10-Good,2,50-Excellent,3,100
+ITOC,ITOC-123,3,Syed Khaldoon/1,2/Data Flow-Alogrithm/Poor,1,10-Good,2,50-Excellent,3,100=Poor,1,10-Good,2,50-Excellent,3,100
